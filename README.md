@@ -1,3 +1,3 @@
-# pong
+# PONG
 
 *not so* Working pong game.
